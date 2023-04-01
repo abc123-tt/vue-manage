@@ -29,3 +29,9 @@ yarn serve
 
 # 技术栈
 vue2 + vuex + vue-router + vue-cli + EventBus + Element-UI + Less + ES6
+
+# 效果展示
+
+![登录](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/%E7%99%BB%E5%BD%95.jpg)
+
+![注销](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/%E6%B3%A8%E9%94%80.jpg)![消息通知](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/%E6%B6%88%E6%81%AF%E9%80%9A%E7%9F%A5.jpg)![注册](https://cdn.jsdelivr.net/gh/abc123-tt/vue-manage@master/%E6%B3%A8%E5%86%8C.jpg)
