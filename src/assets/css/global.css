@@ -1,0 +1,15 @@
+/* 全局样式表 */
+body {
+    font-family: 'Montserrat',sans-serif;
+}
+
+.el-cascader-menu {
+    height: 200px;
+}
+.el-scrollbar__wrap{ overflow: auto; }
+.el-dialog__body {
+    padding-left: 10px;
+}
+.el-cascader-menu__list{
+    width:180px;
+}
